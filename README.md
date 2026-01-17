@@ -17,7 +17,7 @@ A classical alpha-beta pruning based bot to play Quoridor. The main game is writ
 - More advanced search techniques (Quiescence search, null move pruning, etc)
 - Store minmax results in the early phase of the game to a file to create an opening book to reduce move times in the opening
 - More effective move pruning
-- Improve evaluation metric and potentially even train an NNUE though this would be much  later
+
 ## Installation
 
 - Simply run the `main.py` file. The bot's c++ code has already been compiled to a pyd. 
